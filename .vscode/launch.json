@@ -1,0 +1,355 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch WebBrowser",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib  --add-modules javafx.web,javafx.fxml",
+            "mainClass": "WebBrowser",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch project",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib  --add-modules javafx.web,javafx.fxml",
+            "request": "launch",
+            "mainClass": "TestjavaFx.project",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Test",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab12_Pro1",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Lab12_Pro1",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab11Pro4_64010609",
+            "request": "launch",
+            "mainClass": "Lab11Pro4_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab11Pro3_64010609",
+            "request": "launch",
+            "mainClass": "Lab11Pro3_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab11pro2_64010609",
+            "request": "launch",
+            "mainClass": "Lab11pro2_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab11Pro1_64010609",
+            "request": "launch",
+            "mainClass": "Lab11Pro1_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab10Pro6_64010609",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Lab10Pro6_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab10Pro5_64010609",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Lab10Pro5_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab10Pro4_64010609",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Lab10Pro4_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab10Pro3_64010609",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Lab10Pro3_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab10Pro2_64010609",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Lab10Pro2_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab10Pro1_64010609",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Lab10Pro1_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test1",
+            "request": "launch",
+            "mainClass": "TestjavaFx.Test1",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab9Pro1_64010609",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Lab9Pro1_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/pisit/Downloads/openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab1Pro1_64010609",
+            "request": "launch",
+            "mainClass": "Lab1Pro1_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab1Pro2_64010609",
+            "request": "launch",
+            "mainClass": "Lab1Pro2_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab1Pro4_64010609",
+            "request": "launch",
+            "mainClass": "Lab1Pro4_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2Pro1_64010609",
+            "request": "launch",
+            "mainClass": "Lab2Pro1_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2Pro2_64010609",
+            "request": "launch",
+            "mainClass": "Lab2Pro2_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2Pro3_64010609",
+            "request": "launch",
+            "mainClass": "Lab2Pro3_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2Pro4_64010609",
+            "request": "launch",
+            "mainClass": "Lab2Pro4_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2Pro5_64010609",
+            "request": "launch",
+            "mainClass": "Lab2Pro5_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3_Pro1_64010609",
+            "request": "launch",
+            "mainClass": "Lab3_Pro1_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3_Pro2_64010609",
+            "request": "launch",
+            "mainClass": "Lab3_Pro2_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3_Pro3_64010609",
+            "request": "launch",
+            "mainClass": "Lab3_Pro3_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab4Pro1_64010609",
+            "request": "launch",
+            "mainClass": "Lab4Pro1_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab4Pro2_64010609",
+            "request": "launch",
+            "mainClass": "Lab4Pro2_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab4Pro3_64010609",
+            "request": "launch",
+            "mainClass": "Lab4Pro3_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab5Pro1_64010609",
+            "request": "launch",
+            "mainClass": "Lab5Pro1_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab5Pro2_64010609",
+            "request": "launch",
+            "mainClass": "Lab5Pro2_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab6Pro1_64010609",
+            "request": "launch",
+            "mainClass": "Lab6Pro1_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab6Pro2_64010609",
+            "request": "launch",
+            "mainClass": "Lab6Pro2_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab6Pro3_64010609",
+            "request": "launch",
+            "mainClass": "Lab6Pro3_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab6Pro4_64010609",
+            "request": "launch",
+            "mainClass": "Lab6Pro4_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab6Pro5_64010609",
+            "request": "launch",
+            "mainClass": "Lab6Pro5_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab6Pro6_64010609",
+            "request": "launch",
+            "mainClass": "Lab6Pro6_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab7Pro1_64010609",
+            "request": "launch",
+            "mainClass": "Lab7Pro1_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab7Pro2_64010609",
+            "request": "launch",
+            "mainClass": "Lab7Pro2_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab7Pro3_64010609",
+            "request": "launch",
+            "mainClass": "Lab7Pro3_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab8Pro1_64010609",
+            "request": "launch",
+            "mainClass": "Lab8Pro1_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab8Pro2_64010609",
+            "request": "launch",
+            "mainClass": "Lab8Pro2_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab8Pro3_64010609",
+            "request": "launch",
+            "mainClass": "Lab8Pro3_64010609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab8Pro4_640100609",
+            "request": "launch",
+            "mainClass": "Lab8Pro4_640100609",
+            "projectName": "Java_127ebed1"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab1Pro3_64010609",
+            "request": "launch",
+            "mainClass": "lab1Pro3_64010609",
+            "projectName": "Java_127ebed1"
+        }
+    ]
+}
